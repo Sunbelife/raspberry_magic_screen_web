@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../magic_screen_front/.idea/magic_screen.iml" filepath="$PROJECT_DIR$/../magic_screen_front/.idea/magic_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/magic_screen_backend.iml" filepath="$PROJECT_DIR$/.idea/magic_screen_backend.iml" />
+    </modules>
+  </component>
+</project>
