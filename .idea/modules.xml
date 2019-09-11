@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Documents/iBeta/ipsw.pw/.idea/ipsw.pw.iml" filepath="$USER_HOME$/Documents/iBeta/ipsw.pw/.idea/ipsw.pw.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/raspberry_magic_screen_web.iml" filepath="$PROJECT_DIR$/.idea/raspberry_magic_screen_web.iml" />
     </modules>
   </component>

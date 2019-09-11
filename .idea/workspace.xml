@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6cd9f6-7e9a-4b6c-b581-80629a92dd00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/raspberry_magic_screen_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/raspberry_magic_screen_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/application/config/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue.config.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/iBeta/ipsw.pw/application/controllers/Frontend.php" beforeDir="false" afterPath="$USER_HOME$/Documents/iBeta/ipsw.pw/application/controllers/Frontend.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +23,7 @@
     <session id="2137402555">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -26,26 +31,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="3" />
-          <entry key="php" value="2" />
+          <entry key="js" value="4" />
+          <entry key="lock" value="1" />
+          <entry key="php" value="7" />
           <entry key="vue" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="3" />
-          <entry key="PHP" value="2" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="7" />
           <entry key="Vue.js" value="2" />
+          <entry key="yarn.lock" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="9" />
+          <entry key="js" value="31" />
+          <entry key="php" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="31" />
+          <entry key="PHP" value="43" />
         </counts>
       </usages-collector>
     </session>
@@ -53,33 +62,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/templates/Manage.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/templates/HelloWorld.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6449">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="375">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/application/config/database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-614" />
-          </provider>
+        <entry file="file://$PROJECT_DIR$/frontend/yarn.lock">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -94,21 +87,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/router.js">
+        <entry file="file://$PROJECT_DIR$/frontend/babel.config.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/vue.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/vue.config.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/views/frontend/about.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/views/frontend/api_docx.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/models/Frontend_model.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/models/Api_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="-2802" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/controllers/Frontend.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -116,12 +134,14 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/iBeta/ipsw.pw" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/backend/application/config/config.php" />
         <option value="$PROJECT_DIR$/frontend/vue.config.js" />
+        <option value="$USER_HOME$/Documents/iBeta/ipsw.pw/application/controllers/Frontend.php" />
       </list>
     </option>
   </component>
@@ -140,11 +160,12 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="636" />
-    <option name="y" value="25" />
-    <option name="width" value="1410" />
-    <option name="height" value="1055" />
+    <option name="x" value="1029" />
+    <option name="y" value="23" />
+    <option name="width" value="1192" />
+    <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,43 +176,47 @@
           <expand>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
             </path>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ipsw.pw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ipsw.pw" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ipsw.pw" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ipsw.pw" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ipsw.pw" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="raspberry_magic_screen_web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_magic_screen_web" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsw" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ipsw.pw" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,18 +254,18 @@
       <option name="presentableId" value="Default" />
       <updated>1568009992576</updated>
       <workItem from="1568009994681" duration="255000" />
-      <workItem from="1568227254659" duration="1905000" />
+      <workItem from="1568227254659" duration="3622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2160000" />
+    <option name="totallyTimeSpent" value="3877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="636" y="25" width="1410" height="1055" extended-state="0" />
+    <frame x="1029" y="23" width="1192" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16520467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19652174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,29 +299,13 @@
     <entry file="file://$PROJECT_DIR$/frontend/src/templates/Manage.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6449">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/application/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-614" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/router.js">
@@ -308,10 +317,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/vue.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/views/frontend/about.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/views/frontend/api_docx.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/models/Frontend_model.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/models/Api_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2802" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/iBeta/ipsw.pw/application/controllers/Frontend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
         </state>
       </provider>
     </entry>
