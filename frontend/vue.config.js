@@ -3,7 +3,7 @@ const webpack = require('webpack');
 module.exports = {
 
     devServer: {
-        proxy: 'https://localhost:82/index.php/',
+        proxy: 'http://ibeta.dev/',
     },
 
     productionSourceMap: false,
